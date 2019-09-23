@@ -1,5 +1,5 @@
 require "spec_helper"
-require_relative '../drop/drop'
+require_relative '../../Enumerable/drop'
 
 describe "#drop" do
   it do

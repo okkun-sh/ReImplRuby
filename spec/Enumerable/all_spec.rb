@@ -1,5 +1,5 @@
 require 'spec_helper'
-require_relative '../all/all'
+require_relative '../../Enumerable/all'
 
 describe "#all" do
   it do

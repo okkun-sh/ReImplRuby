@@ -1,5 +1,5 @@
 require "spec_helper"
-require_relative '../sum/sum'
+require_relative '../../Enumerable/sum'
 
 describe "#sum" do
   it do

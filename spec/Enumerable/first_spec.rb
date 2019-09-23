@@ -1,5 +1,5 @@
 require "spec_helper"
-require_relative '../first/first'
+require_relative '../../Enumerable/first'
 
 describe "#first" do
   it do

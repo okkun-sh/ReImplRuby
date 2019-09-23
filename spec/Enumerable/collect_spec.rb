@@ -1,5 +1,5 @@
 require "spec_helper"
-require_relative '../collect/collect'
+require_relative '../../Enumerable/collect'
 
 describe "#collect" do
   it do

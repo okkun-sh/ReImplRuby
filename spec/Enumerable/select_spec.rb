@@ -1,5 +1,5 @@
 require "spec_helper"
-require_relative '../select/select'
+require_relative '../../Enumerable/select'
 
 describe "#select" do
   it do
